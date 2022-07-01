@@ -1,3 +1,4 @@
+time,league,pitch,weather,score_home,score_away,corners_home,corners_away,on_target_home,on_target_away,off_target_home,off_target_away,dang_attacks_home,dang_attacks_away,attacks_home,attacks_away,possession_home,possession_away,target
 fh,Mali Premiere Division,GOOD,GOOD,0,0,1,0,9,4,12,18,78,57,142,127,51%,49%,False
 lh,Mali Premiere Division,GOOD,GOOD,0,0,4,0,6,1,10,9,35,30,71,63,50%,50%,False
 fh,Tanzania Premier Le...,GOOD,GOOD,1,0,0,0,9,4,12,2,83,44,103,87,61%,39%,False
